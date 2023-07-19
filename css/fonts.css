@@ -1,0 +1,31 @@
+/*! Fonts include. (fonts.css) | @author webtitov.ru */
+
+/* Fifty Holliwing Regular */
+@font-face {
+  font-family: 'Fifty Holliwing';
+  src: url('fonts/FiftyHolliwing-Regular.otf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Product Sans Light */
+@font-face {
+  font-family: 'Product Sans';
+  src: url('fonts/ProductSansLight.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+/* Product Sans Regular */
+@font-face {
+  font-family: 'Product Sans';
+  src: url('fonts/ProductSansRegular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+/* Product Sans Bold */
+@font-face {
+  font-family: 'Product Sans';
+  src: url('fonts/ProductSansBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
